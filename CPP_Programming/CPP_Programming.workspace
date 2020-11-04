@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CPP_Programming" Database="" Version="10000">
-  <Project Name="Project1" Path="Project1/Project1.project" Active="Yes"/>
-  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="05_Basic_CPP_Structure" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="06_Variables_and_constants" Path="Project2/Project2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="Project1" ConfigName="Debug"/>
-      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="05_Basic_CPP_Structure" ConfigName="Debug"/>
+      <Project Name="06_Variables_and_constants" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
-      <Project Name="Project1" ConfigName="Release"/>
-      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="05_Basic_CPP_Structure" ConfigName="Release"/>
+      <Project Name="06_Variables_and_constants" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
