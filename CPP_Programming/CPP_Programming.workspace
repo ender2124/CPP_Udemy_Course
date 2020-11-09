@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CPP_Programming" Database="" Version="10000">
   <Project Name="05_Basic_CPP_Structure" Path="Project1/Project1.project" Active="No"/>
-  <Project Name="06_Variables_and_constants" Path="Project2/Project2.project" Active="Yes"/>
+  <Project Name="06_Variables_and_constants" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="06.48_What_is_the_Size_of_a_Variable" Path="06.48_What_is_the_Size_of_a_Variable/06.48_What_is_the_Size_of_a_Variable.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="05_Basic_CPP_Structure" ConfigName="Debug"/>
       <Project Name="06_Variables_and_constants" ConfigName="Debug"/>
+      <Project Name="06.48_What_is_the_Size_of_a_Variable" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="05_Basic_CPP_Structure" ConfigName="Release"/>
       <Project Name="06_Variables_and_constants" ConfigName="Release"/>
+      <Project Name="06.48_What_is_the_Size_of_a_Variable" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
